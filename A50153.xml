@@ -1,0 +1,881 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Piscator evangelicus, or, The life of Mr. Thomas Hooker the renowned pastor of Hartford-Church, and pillar of Connecticut-Colony in New-England / essay'd by Cotton Mather.</title>
+            <author>Mather, Cotton, 1663-1728.</author>
+         </titleStmt>
+         <extent>Approx. 72KB of XML-encoded text transcribed from 48 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50153</idno><idno type="EEBO-CITATION">8732968</idno>
+  <idno type="VID">41694</idno>
+  <idno type="EEBO-PROQUEST">2264212879</idno>
+  
+            <idno type="STC">Wing M1141</idno>
+            <idno type="STC">ESTC R25050</idno>
+            <idno type="OCLC">08732968</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A50153)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41694)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1263:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Piscator evangelicus, or, The life of Mr. Thomas Hooker the renowned pastor of Hartford-Church, and pillar of Connecticut-Colony in New-England / essay'd by Cotton Mather.</title>
+                  <author>Mather, Cotton, 1663-1728.</author>
+               </titleStmt>
+               <extent>45 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[Boston? :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: pages blurred, cropped and faded with some loss of print. Defective copy from the Union Theological Seminary Library, New York, spliced at end.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Hooker, Thomas, 1586-1647.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:41694:1"/>
+            <pb facs="tcp:41694:1"/>
+            <p>
+               <hi>Piscator Evangelicus.</hi>
+            </p>
+            <p>OR, The LIFE of Mr. THOMAS HOOKER, The Renowned, PASTOR of <hi>Hartford</hi>-Church, AND PILLAR of <hi>Connecticut</hi>-Colony, IN NEW-ENGLAND.</p>
+            <p>
+               <hi>Essay'd by</hi> COTTON MATHER.</p>
+            <q>
+               <l>Quod si digna Tua minus est mea pagina Laude,</l>
+               <l>At voluisse sat est.</l>
+            </q>
+            <p>Printed in the Year 1695.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:41694:2"/>
+            <head>To the CHURCHES in the Colony of CONNECTICUT.</head>
+            <p>ALthough the Providence of Heaven, whereby the <hi>Bounds of People are set,</hi> hath carried you so far <hi>West<g ref="char:EOLhyphen"/>ward,</hi> that some have pleasantly said, <hi>The Last Conflict with Antichrist must be in your Colony,</hi> yet I believe, you do not reckon your selves Removed beyond the reach of <hi>Temptation</hi> a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d <hi>Corruption.</hi> 'Tis a Great Work that you have done, for our Lord Jesus Christ, in For<g ref="char:EOLhyphen"/>ming a Colony of <hi>Evangelical Churches</hi> for Him, where Satan alone had Reigned without Control in all for<g ref="char:EOLhyphen"/>mer Ages: but your Incomparable HOOKER, who was one of the Greatest in the Foundation of that <hi>Work,</hi> was in his Day, well aware, that Satan would make all the Hast he could, unhappily to get all Buri<g ref="char:EOLhyphen"/>ed in the <hi>Degeneracies</hi> of Ignorance, Worldliness, and Profanitie. To Advise you of your Dancers, and uphold the <hi>Life</hi> of <hi>Religion</hi> among you, I presume Humbly to Lay before you, the <hi>Life</hi> of that Excellent Man, who for Learning, Wisdom, and <hi>Religion,</hi> was a Pattern well▪ worthy of perpetual Consideration. Having Served my own <hi>Province,</hi> with the <hi>History</hi> of no Less than Four Famous JOHNS, all f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tch'd from <hi>One Church,</hi> I was for certain special Causes unwilling to have i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Complained, as once it was of the Di<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ciples, THOMAS <hi>was not with them;</hi> Wherefore, I was willing to make this <hi>Appendix</hi> unto that <hi>H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>st<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ry,</hi> Confes<g ref="char:EOLhyphen"/>sing that thro' want of Information I have <hi>Ʋnder<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e</hi> in <hi>This,</hi> more than in any part of the Composure, yet <hi>So Done,</hi> tha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, I hope the Good Hand of the Lord whom I have design'd therein to Glorify, will make what <hi>Is D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne,</hi> to be neither unacceptable nor unprofi<g ref="char:EOLhyphen"/>table unto His People.</p>
+            <closer>
+               <signed>Cotton Mather.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:41694:26"/>
+            <head>Piscator Evangelicus.</head>
+            <head>THE LIFE OF Mr. THOMAS HOOKER.</head>
+            <p>§. 1. VVHEN <hi>Toxaris</hi> met with his Countryman <hi>Ana<g ref="char:EOLhyphen"/>charsis</hi> in <hi>Athens,</hi> he gave him this Invitati<g ref="char:EOLhyphen"/>on, <hi>Come along with me, and I will shew Thee at once all the Wonders of Greece:</hi> whereupon he shewed him <hi>Solon,</hi> as the Person in whom there Centered all the Glories of that City or Countrey. I shall now Invite my Reader to Behold at once the <hi>Wonders</hi> of <hi>New-England,</hi> and it is in one THOMAS HOOKER that he shall behold them: Even in that <hi>Hooker,</hi> whom a Worthy Writer would needs call, <hi>Saint</hi> HOOKER, for the same <hi>Reason,</hi> (he said)
+<pb n="4" facs="tcp:41694:27"/> and with the same <hi>Freedom,</hi> that <hi>Latymer,</hi> would speak of <hi>Saint</hi> BILNEY, in his Com<g ref="char:EOLhyphen"/>memorations. Tis that HOOKER, of whom I may venture to say, that the famous <hi>Romanist,</hi> who wrote a Book, <hi>De Tribus THOMIS,</hi> or, <hi>of Three THOMASes,</hi> meaning THOMAS the <hi>Apostle, THOMAS Becket,</hi> and Sir <hi>THOMAS MORE,</hi> did not a thousandth part so well sort his THOMAS's, as a <hi>New Englander</hi> might; if he should write a Book, <hi>De Duobus THOMIS,</hi> or, <hi>Of Two THOMAS</hi>'s; and with THOMAS the <hi>Apostle,</hi> joyn our Celeb<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ious THOMAS HOOK<g ref="char:EOLhyphen"/>ER: my <hi>One</hi> THOMAS, even our <hi>Apostoli<g ref="char:EOLhyphen"/>cal</hi> HOOKER, would in <hi>Just Ballances</hi> weigh down two of <hi>Campians</hi> Rebellious <hi>Archbishop<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> or Bigotted <hi>Lord-Chancellours.</hi>
+            </p>
+            <p>§ 2. This our HOOKER, was Born at <hi>Marfi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ld</hi> in <hi>Leicest<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r shire,</hi> about the Year 1586. of Parents that were neither Unable, nor Un<g ref="char:EOLhyphen"/>willing, to bestow upon him a <hi>Liberal Edu<g ref="char:EOLhyphen"/>cati<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>;</hi> whereto the Early and Lively Sparkles of Wit observed in him, did very much En<g ref="char:EOLhyphen"/>courage them <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is Natural Temper was Cheerful and Courteous, but it was accom<g ref="char:EOLhyphen"/>panied with such a sensible <hi>Grandeur of Mind,</hi> as caused his Friends, without the Help of Astrology, to Prognosticate that he was Bor<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to be <hi>Considerable.</hi> The Influence which he had upon the Re<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ormation o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> some Growing
+<pb n="5" facs="tcp:41694:27"/> Abuses, when he was one of the <hi>Procters</hi> in the University, was a Thing, that more eminently Signalized him, when his more publick Appea<g ref="char:EOLhyphen"/>rance in the World was coming on: which was attended with an Advancement unto a <hi>Fellowship</hi> in <hi>Emanuel</hi> Colledge in <hi>Cambridge;</hi> the Students whereof were Originally Design<g ref="char:EOLhyphen"/>ed for the Study of <hi>Divinity.</hi>
+            </p>
+            <p>§▪ 3. With what Ability and Fidelity he acquitted himself in his <hi>Fellowship,</hi> it was a Thing sensible unto the whole University. And it was while he was in this Employ<g ref="char:EOLhyphen"/>ment, that the more Effectual <hi>Grace</hi> of God, gave him the Experience of a true <hi>Regenera<g ref="char:EOLhyphen"/>tion.</hi> It pleased the <hi>Spirit</hi> of God very Pow<g ref="char:EOLhyphen"/>erfully to break into the Soul of this person, with such a Sense of his being Exposed unto the Just <hi>Wrath</hi> of Heaven, as fill'd him with most unusual Degrees of Horror and Anguish, which broke not only his <hi>Rest,</hi> but his <hi>Heart</hi> also, and caused him to cry out, <hi>While I suffer thy Terrors, O Lord, I am Distracted!</hi> While he long had a Soul Harassed with such Distres<g ref="char:EOLhyphen"/>ses, he had a singular Help in the Prudent and Piteous Carriage of Mr. <hi>Ash,</hi> who was the Sizer, that then waited upon him; and attended him, with such Discreet and Proper Compassions, as made him afterwards to Re<g ref="char:EOLhyphen"/>spect him highly all his Dayes. He after<g ref="char:EOLhyphen"/>wards
+<pb n="6" facs="tcp:41694:28"/> gave this Account of himself, <hi>That in the time of his Agonies, he could Reason himself to the Rule, and Conclude that▪ there was no way but Submission to God, and Lying at the Foot of his Mercy in Christ Jesus, and waiting humbly there, till He should please to perswade the Soul of his Favour: nevertheless when he came to apply this Rule unto himself in his own Condition, his Reasoning would fail him▪ he was able to Do nothing.</hi> Having bin a considerable while thus Troubled with such Impressions from the <hi>Spirit of Bondage,</hi> as were to fit him for the Great. Services and Enjoy<g ref="char:EOLhyphen"/>ments, which God intended him; at length he Received the <hi>Spirit of Adoption,</hi> with well-groun<g ref="char:EOLhyphen"/>ded Perswasions of his Interest in the New-Covenant. It became his manner, at his Lying down for Sleep, in the Evening, to Single out some certain <hi>Promise</hi> of God, which he would Repeat, and Ponder, and Keep his Heart close unto it, until he found that satisfaction of Soul where<g ref="char:EOLhyphen"/>with he could say, <hi>I will Lay me down in Peace, and Sleep; for thou, O Lord, makest me <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> well in Assurance.</hi> And he would afterwards Counsel others to take the same Course; telling them, <hi>That the Promise was the Boat, which was to carry a Perishing Sinner over unto the Lord Jesus Christ.</hi>
+            </p>
+            <p>§. 4. Mr. <hi>Hooker</hi> being now well got through the <hi>Storm</hi> of Soul, which had Helped him unto a most <hi>Experimental Acquaintance</hi> with the Truths
+<pb n="7" facs="tcp:41694:28"/> of the Gospel, and the way of Employing and Appl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing those Truths, he was willing to Serve the Church of God in the <hi>Mini<g ref="char:EOLhyphen"/>stry,</hi> whereto he was Devoted. At his first leaving of the University, he Sojourned in the House of Mr. <hi>Drake,</hi> a Gentleman of great Note, not far from <hi>London;</hi> whose worthy Consort being Visited with such Di<g ref="char:EOLhyphen"/>stresses of Soul, as Mr. <hi>Hooker</hi> himself had passed through, it proved an unspeakable advantage unto both of them, that he had that opportunity of being Serviceable; for, indeed, he now had no <hi>Superiour,</hi> and scarce any▪ <hi>Equal,</hi> for the Skill of Treating a <hi>Trou<g ref="char:EOLhyphen"/>bled Soul.</hi> When he left Mr. <hi>Drakes</hi> Family, he did more publickly and frequently Preach about <hi>London;</hi> and in a little time, he grew famous for his Ministerial Abilities, but es<g ref="char:EOLhyphen"/>pecially for his Notable Faculty at the wise and fit management of <hi>Wounded Spirits.</hi> How<g ref="char:EOLhyphen"/>ever he was not Ambitious to Exercise his Ministry among the <hi>Great Ones</hi> of the World, from whom the most of Preferment might be expected▪ but in this, Imitating the Ex<g ref="char:EOLhyphen"/>ample and Character of our Blessed Saviour, of whom 'tis noted, that according to the Prophesie of <hi>Isaiah,</hi> by Him, <hi>The Poor had the Gospel Preached unto them;</hi> he chose to be where great numbers of <hi>the Poor</hi> might Re<g ref="char:EOLhyphen"/>ceive the <hi>Gospel</hi> from him.
+<pb n="8" facs="tcp:41694:29"/> §. 5. About this time it was, that Mr. <hi>Hooker</hi> grew into a most intimate Acquaintance with Mr. <hi>Rogers</hi> of <hi>Dedham;</hi> who so highly valued him for his Multifarious Abilities, that he used and gained many Endeavours to get him Settled at <hi>Colchester;</hi> whereto Mr. <hi>Hooker</hi> did very much Incline, because of its being so near to <hi>Dedham,</hi> where he might Enjoy the <hi>Labours</hi> &amp; <hi>Lectures</hi> of Mr. <hi>Rogers,</hi> whome he would some<g ref="char:EOLhyphen"/>times call, <hi>The Prince of all the Preachers in En<g ref="char:EOLhyphen"/>gland.</hi> But the Providence of God gave an Obstruction to that Settlement; and, indeed, it was an Observation, which Mr. <hi>Hooker</hi> would sometimes afterwards use unto his Friends, <hi>That the Providence of God often Divirted him from Em<g ref="char:EOLhyphen"/>ployment in such Places, as he himself Desired, and still Directed him to such Flaces, as he had no thoughts of.</hi> Accordingly, <hi>Chelmsford</hi> in <hi>Essex,</hi> a Town of great Concourse, wanting one to <hi>Break the Bread of Life</hi> unto them; and hear<g ref="char:EOLhyphen"/>ing the Fame of Mr. <hi>Hooker's</hi> Powerful Mini<g ref="char:EOLhyphen"/>stry; Addressed him to become their <hi>Lecturer:</hi> and he accepted their Offer about the Year 1626. becoming not only their <hi>Lecturer,</hi> but also on the Lord's Dayes, an <hi>Assistent</hi> unto one Mr. <hi>Mitchel,</hi> the Incumbent of the Place; who though he were a <hi>Smaller,</hi> yet being a <hi>Godly</hi> Person, gladly Encouraged Mr. <hi>Hooker,</hi> &amp; Liv'd with him in a most Comfortable Amity.</p>
+            <pb n="9" facs="tcp:41694:29"/>
+            <p>§. 6. Here his Lecture was exceedingly Fre<g ref="char:EOLhyphen"/>quented, and proportionably Succeeded; and the Light of his Ministry shone through the whole County of <hi>Essex.</hi> There was a rare mixture of <hi>Pleasure</hi> and <hi>Profit</hi> in his Preaching; and his Hearers felt those penetrating Impres<g ref="char:EOLhyphen"/>sions of his Ministry upon their Souls, which caused them to Reverence him, as, <hi>A Teacher sent from God.</hi> He had a most excellent Facul<g ref="char:EOLhyphen"/>ty at the <hi>Applications</hi> of his Doctrine; and he would therein so Touch the <hi>Consciences</hi> of his Auditors, that a Judicious Person would say of him, <hi>He was the Best at an Use that ever he Heard.</hi> Hereby there was a great Reformation wrought, not only in the <hi>Town,</hi> but in the Adjacent <hi>Countrey;</hi> from all parts whereof they came to <hi>Hear the Wisdom of the Lord Jesus Christ,</hi> in His Gospel, by this worthy man Dispensed: and some of great Quality among the rest, would often Resort from far to his Assembly; parti<g ref="char:EOLhyphen"/>cularly the truly Noble Earl of <hi>Warwick,</hi> whose Countenance of Good Ministers, procured more <hi>Prayers</hi> to God for him, than most Noble Men in <hi>England.</hi>
+            </p>
+            <p>When he first Set up his Lecture, there was more <hi>Prophaneness</hi> than <hi>Devotion</hi> in the Town: and the Multitode of <hi>Inns</hi> and <hi>Shops</hi> in the Town produced one particular Disorder, of Peoples filling the Streets with unsuitable Beha<g ref="char:EOLhyphen"/>viours,
+<pb n="10" facs="tcp:41694:30"/> after the Publick Services of the <hi>Lords-Day</hi> were over. But by the Power of his <hi>Mi<g ref="char:EOLhyphen"/>nistry</hi> in Publick, and by the Prudence of his Carriage in Private, he quickly cleared the Streets of this Disorder, and the <hi>Sabbath</hi> came to be very visibly Sanctified among the People.</p>
+            <p>§. 7. The <hi>Joy</hi> of the People in this <hi>Light was but for a Season.</hi> The Conscientious Non-Conformity of M. <hi>Hooker</hi> to some Rites of the Church of <hi>England,</hi> then vigorously pressed, especially upon such Able and Useful Ministers, as were most likely to be Laid aside by their scrupling of those Rites; made it necessary for him to Lay down his Ministry in <hi>Chelmsford,</hi> when he had been about four years there, Em<g ref="char:EOLhyphen"/>ployed in it. Hereupon, at the Request of several Eminent Persons, he kept a <hi>School,</hi> in <hi>his own Hired House,</hi> having our Mr. <hi>John Eliot</hi> for his <hi>Usher,</hi> at little <hi>Baddow</hi> not far from <hi>Chelmsford;</hi> where he managed his Charge with such Discretion, such Authority, and such Effi<g ref="char:EOLhyphen"/>cacy, that, able to do more with a <hi>Word,</hi> or a <hi>Look,</hi> than most other men could have done by a <hi>Severer Discipline,</hi> he did very great <hi>Service</hi> to the Church of God, in the Education of such, as afterwards proved themselves not a little <hi>Serviceable.</hi> I have in my Hands, a Ma<g ref="char:EOLhyphen"/>nuscript, written by the Hands of our Blessed ELIOT, wherein he gives a very <hi>Great</hi> Account
+<pb n="11" facs="tcp:41694:30"/> of the Little <hi>Academy</hi> then mentained in the <hi>House</hi> of Mr. <hi>Hooker;</hi> and among other things, he says, <hi>To this place I was call'd, through the In<g ref="char:EOLhyphen"/>finite Kiches of Gods Mercy in Christ Jesus to my poor Soul: For here the Lord said unto my Dead Soul,</hi> Live; <hi>and through the Grace of Christ, I do Live, and I shall Live for ever! When I came to this Blessed Family, I then saw, and never before, the Power of Godliness, in its Lively Vigour and Efficdey.</hi>
+            </p>
+            <p>§. 8. While he continued thus in the <hi>Heart</hi> of <hi>Essex,</hi> and in the <hi>Hearts</hi> of the People there, he signalized his <hi>Usefulness</hi> in many other Instan<g ref="char:EOLhyphen"/>ces.</p>
+            <p>The Godly Ministers round about the Coun<g ref="char:EOLhyphen"/>trey, would have Recourse unto him, to be Di<g ref="char:EOLhyphen"/>rected and Resolved, in their <hi>Difficult Cases:</hi> and it was by his means that those Godly Ministers held their <hi>Montbly Meetings</hi> for <hi>Fasting</hi> and <hi>Pray<g ref="char:EOLhyphen"/>er,</hi> and profitable <hi>Conferences.</hi> 'Twas the Effect of his <hi>Consultations</hi> also, that such Godly Mini<g ref="char:EOLhyphen"/>sters, came to be here and there Settled in several parts of the County; and many others came to be better establish'd in some great points of Chri<g ref="char:EOLhyphen"/>stanity, by being in his Neighbourhood and Ac<g ref="char:EOLhyphen"/>quaintance. He was indeed, a <hi>General Blessing</hi> to the Church of God! But that which bin<g ref="char:EOLhyphen"/>dred his Taking his Degree of <hi>Batchelour in Divinity,</hi> must also it seems hinder his being a
+<pb n="12" facs="tcp:41694:31"/>
+               <hi>Preacher of Divinity;</hi> namely his being a <hi>Non-Conformist</hi> unto some things, whereof true <hi>Divi<g ref="char:EOLhyphen"/>nity</hi> could not approve. And indeed that which made the Silencing of Mr. <hi>Hooker,</hi> more unaccountable was, That no less than <hi>Seven and Forty</hi> Conformable Ministers of the Neighbour<g ref="char:EOLhyphen"/>ing <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>own, understanding that the Bishop of <hi>London,</hi> pretended Mr. <hi>Hookers</hi> Ministry, to be Injurious or Offensive to them, Subscribed a Petition to the <hi>Bishop,</hi> for his Continuance in the Ministry at <hi>Chelmsford;</hi> i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which Petition, though he was of a Perswasion so Different from them, yet they Testify in so many words, <hi>That they esteem and know the said Mr.</hi> Thomas Hooker, <hi>to be for Doctrine, Orthodox; for Life and Conversation, Honest; for Disposition, Peaceable, and in no wise Turbulent or Factious.</hi> And yet all would not a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ail: <hi>Bonus vir</hi> Hook<g ref="char:EOLhyphen"/>erus, <hi>sed ideo malus, quia Puritanus.</hi>
+            </p>
+            <p>§ 9. The Ground work of his Knowledge and Study of the <hi>Arts,</hi> was in the <hi>Tables</hi> of Mr. <hi>Alexander Richardson,</hi> whom he closely followed, admi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing him for a man of Transcondent Abi<g ref="char:EOLhyphen"/>lity, and a most Exalted Piety; and would say of him, <hi>That he was a Master of so much Under<g ref="char:EOLhyphen"/>standing, that like the Great Army of</hi> Gideon, <hi>he was too many to be Employed in Doing what was to be Done for the Church of God.</hi> This most Emi<g ref="char:EOLhyphen"/>nent <hi>Rishardson,</hi> Leaving the University, Lived a
+<pb n="13" facs="tcp:41694:31"/> private <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e in <hi>Essex,</hi> whither many Students in <hi>Cambridge</hi> Resorted unto him▪ to be <hi>Illuminated</hi> in the abstruser parts of Learning; and from him it was that the Incomparable Doctor <hi>Ames</hi> Imbibed those Principles both in <hi>Philosophy</hi> and in <hi>Divinity,</hi> which afterwards not only gave clearer <hi>Methods</hi> and <hi>Measures</hi> to all the <hi>Li<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eral Arts,</hi> but also <hi>Fed</hi> the whole Church of God with the choicest <hi>Marrow.</hi> Nevertheless, this Excellent Man, as he Lived, so he Dyed in a most Retired Obscurity; but so far as a <hi>Metem<g ref="char:EOLhyphen"/>psychosis</hi> was attainable, the <hi>Soul</hi> of him, I mean the Notions, the Accomplishments, the Disposi<g ref="char:EOLhyphen"/>tions of that Great SOUL, Transmigrated into our most <hi>Richardsonian Hooker.</hi>
+            </p>
+            <p>§ 10 As his <hi>Person</hi> was thus Adorned with a well▪ grounded Learning, so his <hi>Preaching</hi> was notably set off with a <hi>Liveliness</hi> Extraor<g ref="char:EOLhyphen"/>dinary: insomuch that I cannot give a <hi>fuller,</hi> and yet <hi>briefer</hi> Description of him, than that which I find given of <hi>Bucholtzer,</hi> that Pattern of <hi>Preachers,</hi> before him; <hi>Vivida in eo omnia fuerunt, vivida vox, vividi oculi, vivida manus, gestus omnes vividi:</hi> he <hi>was</hi> all that he was, and he <hi>did</hi> all that he did, <hi>Unto the Life!</hi> He not only had that which <hi>Quintilian</hi>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>lls, <hi>A Natural Moveableness of Soul,</hi> whereby the Distinct <hi>Images</hi> of Things would c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me so <hi>nimbly,</hi> and yet so <hi>fitly,</hi> into his mind, th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t
+<pb n="14" facs="tcp:41694:32"/> he could utter them with such fluent Expressi<g ref="char:EOLhyphen"/>ons, as the old Orators would usually Ascribe unto a <hi>special Assistance</hi> of Heaven, [<hi>Deum tunc Adfuisse, veteres Oratores aiebant</hi>] <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd counted that men did therein THE<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>OS LEGEIN, or <hi>Speak Divinely;</hi> but the Rise of this Fluency in him, was the <hi>Divine Relish</hi> which he had of the things to be spoken, the <hi>Sacred Panting</hi> of his holy Soul after the Glorious Objects of the Invisible World, and the true <hi>zeal</hi> of <hi>Religion</hi> giving <hi>Fire</hi> to his Discourses. Whence, though the <hi>Ready</hi> and <hi>Noisy</hi> Performances of many Preachers, when they are as <hi>Plato</hi> speaks, THEATROU MESTOI, or <hi>Full of the Theatre,</hi> Acting to the Height in the Publick for their Applause, may be ascribed unto very <hi>Mechanical Principles;</hi> yet the <hi>vigour</hi> in the Ministry of our <hi>Hooker,</hi> being Raised by a <hi>Coal from the Altar</hi> of a most Real Devotion, touching his <hi>Heart;</hi> it would be a wrong unto the Good <hi>Spirit</hi> of our God, if <hi>He</hi> should not be Acknowledged the Author of it. That <hi>Spirit</hi> accordingly gave a wonderful and unusual <hi>Success,</hi> unto the Ministry wherein he <hi>Breathed</hi> so Remarkably. Of that <hi>Success</hi> there were many Instances; but one par<g ref="char:EOLhyphen"/>ticularly I find mentioned in <hi>Clark</hi>'s Examples, to this purpose. A profane person, Designing therein only an Ungodly Diversion and Merri<g ref="char:EOLhyphen"/>ment, said unto his Companions, <hi>Come, Let us go Hear, what that Bawling</hi> Hooker <hi>will say to
+<pb n="15" facs="tcp:41694:32"/> us;</hi> and thereupon with an Intention to make sport, unto <hi>Chelmsford</hi> Lecture they came. The man had not been long in the Church, before the <hi>Quick and Powerful Word</hi> of God, in the mouth of His Faithful <hi>Hooker,</hi> pierced the Soul of him; he came out with an Awakened and a Distressed Soul, and by the further Blessing of God upon Mr. <hi>Hooker's</hi> Ministry, he arrived unto a true <hi>Conversion;</hi> for which cause he would not afterwards Leave that Blessed Mini<g ref="char:EOLhyphen"/>stry, but went a <hi>Thousand Leagues</hi> to Attend it, and Enjoy it. Another Memorable Thing of this kind, was this; It was Mr. <hi>Hooker</hi>'s manner once a year to visit his Native County: and in one of those Visits, he had an Invitation to Preach in the Great Church of <hi>Leicester.</hi> One of the chief Burgesses in the Town, much Op<g ref="char:EOLhyphen"/>posed his Preaching there; and when he could not prevail to hinder it, he set certain <hi>Fidl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rs</hi> a work to Disturb him, in the <hi>Church-porch,</hi> or <hi>Church<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yard.</hi> But such was the Vivacity of Mr. <hi>Hooker,</hi> as to proceed▪ in what he was about, without ei<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>amping of his <hi>Mind,</hi> or the Drowning of his <hi>Voice;</hi> whereupon the Man himself went unto the <hi>Church<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Door,</hi> to ove<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>-hear what he said It pleased God▪ so to accompany some words <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ered by Mr. <hi>Hooker,</hi> as thereby to procure, first the <hi>Attention,</hi> and then the <hi>Conviction</hi> of that wretched man; who then came to Mr. <hi>Hooker,</hi> with a penitent
+<pb n="16" facs="tcp:41694:33"/> Confession of his Wickedness, and became indeed so penitent a Convert, as to be at length a sincere <hi>Professor</hi> and <hi>Practiser</hi> of the Godliness, whereof he had been a <hi>Persecutor.</hi>
+            </p>
+            <p>§ 11. The <hi>Spiritual Court,</hi> Sitting at <hi>Chelmsford,</hi> about the year 1630. had not only Sileneed Mr. <hi>Hooker,</hi> but also bound him over in a Bond of <hi>Fifty Pound,</hi> to appear before the <hi>High Commissi<g ref="char:EOLhyphen"/>on,</hi> which he could not now attend, because of an <hi>Ague</hi> then upon him. One of his Hearers, namely Mr. <hi>Nash,</hi> a very honest Yeoman, that Rented a great Farm of the Earl of <hi>Warwick,</hi> at <hi>Much-Waltham,</hi> was Bound in that Sum for his Appearance; but as <hi>Paul</hi> was advised by his Friends, that he would not venture into the Theatre at <hi>Ephesus,</hi> thus Mr. Hooker's Friends advised him to Forfeit his Bonds, rather than throw himself any further into the Hands of his Enemies. Wherefore, when the Day for his Appearance came, his honest Surety being Reimbursed by several good People in and near <hi>Chelmsford,</hi> sent in the forfeited Sum into the Court; and Mr. <hi>Hooker</hi> having, by the Earl of <hi>Warwick,</hi> a courteous and private Recess pro<g ref="char:EOLhyphen"/>vided for his Family, at a place called <hi>Old Park,</hi> for which I find, the Thanks of Dr. <hi>Hil</hi> afterwards publickly given in his Dedi<g ref="char:EOLhyphen"/>cation of Mr. <hi>Fenners</hi> Treatise about <hi>Impenitency;</hi> He went over to <hi>Holland.</hi> In his Passage
+<pb n="17" facs="tcp:41694:33"/> thither, he quickly had Occasion to Discover himself, when they were in Fminent Hazzard of <hi>Shipwrack,</hi> upon a Shelf of Sand, whereon they Ran in the Night; but Mr. <hi>Hooker,</hi> like <hi>Paul</hi> again, with a Remarkable <hi>Confidence,</hi> Aslu<g ref="char:EOLhyphen"/>red them, that they should be all Preserved; and they had as Remarkable a <hi>Deliverance.</hi> I have also heard, that when he fled from the Pursevants, to take his Passage for the <hi>Low-Count treyes.</hi> at his Last Parting with some of his Friends, one of them said, <hi>Sir, What if the Wind should not be fair, when you come to the Vessel?</hi> whereto he instantly replyed, <hi>Brother, Let us Leave that with Him, who keeps the Wind in the Hollow of his Hand:</hi> And it was observ'd, That although the Wind was Cross, until <hi>be</hi> came Aboard, yet it immediately then came about fair and fresh, and he was no sooner under Sail, but the Officer arriv'd at the Sea-side, hap<g ref="char:EOLhyphen"/>pily too Late now to conie at him: which minds me, of what besel Dr. <hi>Goodwin,</hi> not Long after. That Great man, Lay <hi>Wind<g ref="char:EOLhyphen"/>bound,</hi> in hourly suspicions that the Purse<g ref="char:EOLhyphen"/>vants would stop his Voyage, and Seiz his Person, before the <hi>Wird</hi> would favour his getting away for <hi>Holland.</hi> In this Distress, Humbly Praying to the Lord Jesus Christ, for a more propitious <hi>Wind,</hi> he yet said, <hi>Lord, If thou hast at this time, any poor Servant of thine, that wants this Wind, more than I do another, I do not ask for
+<pb n="18" facs="tcp:41694:34"/> the Changing of it; I submit unto it.</hi> And imme<g ref="char:EOLhyphen"/>diately the Wind came about, unto the Right Point; and carried him clear from his Pursu<g ref="char:EOLhyphen"/>ners.</p>
+            <p>§. 12. Arriving in <hi>Holland,</hi> he was Invited unto a Settlement with old Mr. <hi>Paget;</hi> but the Old man being secretly willing that Mr. <hi>Hooker</hi> should not Accept of this Invitation, he con<g ref="char:EOLhyphen"/>trived many wayes to render him suspected that he favoured the <hi>Brownists;</hi> unto <hi>whom</hi> he had, indeed, an extream Aversion. The Misunderstandings Operated so far, as to occasion Mr. <hi>Hooker</hi>'s Removal from <hi>Amsterdam;</hi> notwithstanding he had so fully expressed himself, when in his Answer to one Mr. <hi>Paget</hi>'s Questions, he declared, in these words, <hi>To Separate from the Faithful Assemblies and Churches in</hi> England, <hi>as no Churches, is an E<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ror in Judgmetn, and Sin in Practice, held and mentained by the</hi> Brownists; <hi>and therefore to Communicate with them in their Opinion or Practice, is sinful and afterful unlawful: and care should be taken to prevent Offence, either by Encouraging them in their way, or by Drawing others to a further Approbation of that way than is meet.</hi> Going from - <hi>Amsterdam,</hi> he went unto <hi>Delft;</hi> where he was most kindly Received by Mr. <hi>Forbs,</hi> an Aged and Holy <hi>Scotch</hi> Minister, under whose Ministry many <hi>English</hi> Merchants
+<pb n="19" facs="tcp:41694:34"/> were then Settled. The Text whereon he first Preached at his coming thither, was Phil 1. 29. <hi>To you it is given not only to Believe, but also to Suffer;</hi> and after that Se<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mon, Mr. <hi>Forbs</hi> ma<g ref="char:EOLhyphen"/>nifested a strong De<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re to Enjoy the Fellowship of Mr <hi>Hooker</hi> in the Work of the Gospel; which he did for about the space of two years: in all which time they Lived so like Brethren, that an Ooserver might say of them, as they said of <hi>Basil</hi> and <hi>Nazianzen, They were but One Soul in two Bodies;</hi> and it they had been for any litde while asunder, they still met with such Friendly and Joyful Congratulations, as Testified a most affectionate satisfaction in each others Company.</p>
+            <p>§. 13. At the end of two years, he had a Call to <hi>Rotterdam;</hi> which he the more heartily and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ilv Accepted, because it Renewed his Acquaintance with his Invaluable Dr. <hi>Ames,</hi> who had newly Left his Place in the <hi>Frisian</hi> University. With him he spent the Residue of his Time in <hi>H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lland,</hi> and Assisted him in Composing some of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i Discourses, which are, <hi>His Fresh Suit against the Ceremonies:</hi> for such was the Regard which Dr. <hi>Ames</hi> had for him, that notwithstanding his vast Ability and Expe<g ref="char:EOLhyphen"/>rience, yet when it came to the <hi>Narrow</hi> of any Question about the <hi>Instituted Worship of God,</hi> he would still profess himself Conquered by Mr.
+<pb n="20" facs="tcp:41694:35"/>
+               <hi>Hookers</hi> Reason; Declaring, that <hi>though he had, been Acquainted with many Scholars of divers Na<g ref="char:EOLhyphen"/>tions, yet he never met with Mr.</hi> Hookers <hi>Equal, either for Preaching or for Disputing.</hi> But having tarried in <hi>Holland</hi> long enough to see the State of Religion in the Churches there, he became satisfied, that it was neither Eligible for <hi>him</hi> to tarry in that Country, nor Convenient for <hi>his Friends</hi> to be Invited thither after him. I have at this time in my Hands, his Letter from <hi>Ro<g ref="char:EOLhyphen"/>terdam</hi> to Mr. <hi>Cotton,</hi> wherein are these words; <q rend="margQuotes">The State of these Provinces to my weak eye, seems wonderfully ticklish and miserable. For the better part, <hi>Heart Religion,</hi> They con<g ref="char:EOLhyphen"/>tent themselves with verv Forms, tho' much Blemished; but the Power of Godliness, for ought I can see or hear, they know not; and if it were thoroughly pressed, I fear least it will be fiercely opposed. My Ague yet holds me; the wayes of Gods Providence, wherein He has walked towards me, in this long time of my Sickness, and wherein I have draw<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> forth many wearyish Hours, under His Al<g ref="char:EOLhyphen"/>mighty Hand (Blessed be His Name) toge<g ref="char:EOLhyphen"/>ther with Pursuits and Banishment, which have waited upon me, as one Wave follows another, have driven me to an Amazement: His Paths being too secret and past finding out by such an Ignorant, Worthless Worm as my self. I have Looked over my Heart and
+<pb n="21" facs="tcp:41694:35"/> Life, according to my measure; aimed and guessed as well as I could: and Entreated His Majesty to make known His Mind, wherein I missed; and yet methinks I cannot spell out readily the Purpose of His Proceedings; which I confess have been wonderful in Miseries, and more than wonderful in Mercies to me and mine.</q> Wherefore, about this time, un<g ref="char:EOLhyphen"/>derstanding that many of his Friends in <hi>Essex,</hi> were upon the <hi>Wing,</hi> for a <hi>Wilderness</hi> in <hi>America;</hi> where they hoped for an Opportunity to Enjoy and Practice the <hi>Pure Worship</hi> of the Lord Jesus Christ, in <hi>Churches</hi> Gathered according to His Direction, he readily answered their Invitation to Accompany them in this Undertaking.</p>
+            <p>§. 14. Returning into <hi>England</hi> in order to a further Voyage, he was quiokly Scented by the Pursevants; who at length got so far up with him, as to knock at the Door of that very Chamber, where he was now Discoursing with Mr. <hi>Stone;</hi> who was now become his Designed Companion and Assistent for the <hi>New English</hi> Ente<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orize. Mr. <hi>Stone</hi> was at that Instant Smoking of <hi>Tobacco;</hi> for which Mr. <hi>Hooker</hi> had been Reproving him, as being then used by few p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ons of Sobriety; being also of a sudden and pleasant Wit, he stept unto the Door, with his <hi>Pipe</hi> in his mouth, &amp; such an <hi>Air</hi> of Speech and Look, as gave him some Credit with the
+<pb n="22" facs="tcp:41694:36"/> Officer. The Officer Demanded, <hi>Whether</hi> Mr. Hooker <hi>were not there?</hi> Mr. <hi>Stone</hi> replyed with a braving sord of Confidence, <hi>What</hi> Hooker? <hi>Do you mean</hi> Hooker <hi>that Liv'd once at</hi> Chelms<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d! The O<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ficer a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>swered, <hi>Yes, He!</hi> Mr. <hi>Stone</hi> imme<g ref="char:EOLhyphen"/>diately, with a Diversion like that which once helped <hi>Atbanasius,</hi> made this true answer, <hi>If it be he you Look for, I saw him about an Hour ago, at such an House in the Town; you had best hasten thither after him.</hi> The Officer took this <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or a sufficient Account, and went hi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> way: but Mr. <hi>Hooker,</hi> upon this Intimation concealed himself more carefully and securely, till he went on Boa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, at the <hi>Downs</hi> in the year 1633. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Ship which brought him, and Mr. <hi>Cotton,</hi> and Mr. <hi>Stone</hi> to <hi>New England:</hi> Where none but Mr. <hi>Stone</hi> was owned for a Preacher, at their first coming Aboard; the other two Delaying to take their Turns in the P<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>lick Worship of the Ship, till they were got so far into the Main O<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>an, that they might with safety Discover <hi>Who</hi> they were.</p>
+            <p>§ 15. Amongst Mr. <hi>Fenn<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rs</hi> Works, I find some Im<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erfect and Shattered, and I believe <hi>In<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uri us Notes,</hi> of a <hi>Farewel Sermon</hi> upon Jer. 14. 9 <hi>We are Call<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d by thy Name, Leave us not</hi> Which <hi>Farewel Sermon</hi> was indeed, Mr. <hi>Hookers</hi> at his Leaving of <hi>England.</hi> There are in those <hi>Fragments</hi> of a Sermon, some very <hi>Pathetical,</hi> &amp;
+<pb n="23" facs="tcp:41694:36"/> most <hi>Prophetical</hi> Passages, whereof some are these.</p>
+            <p>
+               <hi>It is not Gold and Prosperity, which makes God to be our God; there is more Gold in the</hi> West Indies, <hi>than there is in all</hi> Christendom; <hi>but it is Gods Ordinances in the virtue of them, that show the Presence of God.</hi>
+            </p>
+            <p>Again, <hi>Is not</hi> England <hi>Ripe? Is she not weary of God? nay, she is fed fat for the slaughter.</hi>
+            </p>
+            <p>Once more, England <hi>hath seen her Best Dayes, and now Evil Dayes are befalling us.</hi>
+            </p>
+            <p>And, <hi>Thou</hi> England, <hi>which hast been Lifted up to Heaven with Means, shall be Abased and brought down to Hell; for if the mighty works, which have been Done in Thee, had been Done in</hi> India <hi>or</hi> Tur<g ref="char:EOLhyphen"/>key, <hi>they would have Repented ere this.</hi>
+            </p>
+            <p>These Passages I quote, that I may the more effectually Describe the Apprehensions, with which this Worthy man took his <hi>Farewel</hi> of his Native Countrey.</p>
+            <p>§. 16. Mr. <hi>Hooker</hi> and Mr. <hi>Cotton</hi> were, for their different <hi>Genius,</hi> the <hi>Luther</hi> and <hi>Melancthon</hi> of <hi>New-England;</hi> at their Ar<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ival unto which Countrey, Mr. <hi>Cotton</hi> Settled with the Church of <hi>Boston,</hi> but Mr. <hi>Hooker</hi> with the Church of <hi>New Town,</hi> having Mr. <hi>Stone</hi> for his Assistent. Inexpressible now was the Joy of Mr. <hi>Hooker,</hi> to find himself Surrounded with his Friends, who were come over the year before, to prepare for
+<pb n="24" facs="tcp:41694:37"/> his Reception; with open arms he Embraced them, and uttered these words, <hi>Now I Live, if you stand stast in the Lord.</hi> But such multitudes flocked over to <hi>New England</hi> after them, that the Plantation of <hi>New-Town</hi> became too straight for them; and it was Mr. <hi>Hookers</hi> Advice that they should not Incur the Danger of a <hi>Sitna,</hi> or an <hi>Esek,</hi> where they might have a <hi>Rehoboth.</hi> Acco<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dingly in the Month of <hi>June</hi> 1636. they Removed an Hundred miles to the Westward, with a purpose to Settle upon the Delightful Banks of <hi>Connecticut River:</hi> and there were a<g ref="char:EOLhyphen"/>bout an Hundred Persons in the first Company that made this Removal, who not being able to Walk above ten miles a Day, took up near a Fortnight in the Journey; having no Pillows to take their Nightly Rest upon, but such as their Father <hi>Jacob</hi> found in the way to <hi>Padan-Aram.</hi> Here Mr. <hi>Hooker</hi> was the chief Instru<g ref="char:EOLhyphen"/>ment of <hi>Beginning</hi> another Colony, as Mr. <hi>Cotton,</hi> whom he Left behind him, was, of <hi>Preserving</hi> and <hi>Perfecting</hi> that Colony where he Left him; for, indeed each of them were the <hi>Oracle</hi> of their several Colonies.</p>
+            <p>§ 17. Though Mr. <hi>Hooker</hi> had thus Remo<g ref="char:EOLhyphen"/>ved from the <hi>Massachusett-Bay,</hi> yet he sometimes came down to visit the Churches in that Bay; But when ever he came, he was Received with an Affection, like that which <hi>Paul</hi> found among
+<pb n="25" facs="tcp:41694:37"/> the <hi>Galatians;</hi> yea, 'tis thought, that once there seemed some Intimation from Heaven, as if the Good People had <hi>Overdone</hi> in that Affection. For on <hi>May</hi> 26. 1639. Mr. <hi>Hooker</hi> being here to Preach that Lords Day in the Afternoon, his great Fame had gathered a vast multitude of Hearers from several other Congregations, and among the Rest, the Governour himself, to be made Partakers of his Ministry. But when he came to Preach, he found himself so unaccoun<g ref="char:EOLhyphen"/>tably at a Loss, that after some shattered and broken Attempts, to proceed, he made a full stop; saying to the Assembly, <hi>That every thing▪ which be would have spoken, was taken both out of his Mouth, and out of his Mind also;</hi> wherefore he Desired them to Sing a <hi>Psalm,</hi> while he withdrew about half an Hour from them: Re<g ref="char:EOLhyphen"/>turning then to the Congregation, he Preached a most admirable Sermon, wherein he Held them for two Hours together in an extraordina<g ref="char:EOLhyphen"/>ry Strain, both of <hi>Pertinency</hi> and <hi>Vivacity.</hi>
+            </p>
+            <p>After Sermon, when some of his Friends were speaking of the Lords thus <hi>Withdrawing</hi> His Assistences from him, he humbly replied, <hi>We daily confess, that we have nothing, and can do nothing, without Christ; and what if Christ will make this manifest in us, and on us, before our Con<g ref="char:EOLhyphen"/>gregations? what remains, but that we be humbly Contented? and what manner of Discouragement is there in all of this?</hi> Thus Content was <hi>he</hi>
+               <pb n="26" facs="tcp:41694:38"/> to be <hi>Nullified,</hi> that the LORD might be <hi>Magnified!</hi>
+            </p>
+            <p>§ 18. Mr. <hi>Hooker,</hi> that had been Born to <hi>Serve many,</hi> and was of such a Publick Spirit, that I find him occasionally Celebrated, in the Life of Mr. <hi>Angier,</hi> Lately Published, for One, Who would be continually Inquisitive, how it Fared with the Church of God, both at home and abroad, on purpose that he might order his <hi>Prayers</hi> and <hi>Cares</hi> accordingly: <hi>He</hi> never took his Opportunity to <hi>Serve himself;</hi> but Lived a sort of <hi>Exile</hi> all his Dayes, except the Last Fourteen Years of his Lite, among his own <hi>Spiritual Children</hi> at <hi>Hartford;</hi> however, here also, he was an <hi>Exile.</hi> Accordingly, wherever he came, he Lived like a <hi>Stranger</hi> in the World! When at the Lands-End, he took his last sight of <hi>England,</hi> he said, <hi>Farewel</hi> England! <hi>I expect now no more to see that Religious Zeal, and Power of Godliness, which I have seen among Professors in that Land!</hi> And he had Sagacious and Prophe<g ref="char:EOLhyphen"/>tical Apprehensions of the Declensions which would attend <hi>Reforming Churches,</hi> when they came to Enjoy a place of <hi>Liberty:</hi> he said, <hi>That Adversity had slain its Thousands, but Prosperi<g ref="char:EOLhyphen"/>ty would stay its Ten Thousands!</hi> he fear'd, <hi>That they who had been Lively Christians in the Fire of Persecution, would soon become cold in the midst of Universal Peace, except some few, whom God by
+<pb n="27" facs="tcp:41694:38"/> sharp Tryals, would keep in a Faithful, Watchful, Humble and Praying Frame.</hi> But under these Preapprehensions, it was his own Endeavour to beware of Abating his own <hi>First Love!</hi> And of so <hi>Watchful,</hi> so <hi>Prayerful,</hi> so <hi>Fruitful</hi> a Spirit was Mr. <hi>Hooker,</hi> that the <hi>Spirit of Prophecy</hi> it self, did seem to grant him some singular <hi>Afflations.</hi> Indeed, every <hi>Wise man</hi> is a <hi>Prophet;</hi> but one so Eminently acquainted with <hi>Scripture</hi> and <hi>Reason,</hi> and <hi>Church-History,</hi> as our <hi>Hooker,</hi> must needs be a <hi>Seer,</hi> from whom singular <hi>Prognostica<g ref="char:EOLhyphen"/>tions</hi> were to be expected. Accordingly, there were many things <hi>Prognosticated</hi> by him, where<g ref="char:EOLhyphen"/>in the Future State of <hi>New England,</hi> particularly of <hi>Connecticut,</hi> has been so much concerned, that its pitty they should be forgotten. But I will in this History, Record only Two of his Predictions. One was, <hi>That God would punish the wanton Spirit of the Professers, in this Countrey, with a sad want of Able Men in all Orders.</hi> A<g ref="char:EOLhyphen"/>nother was, <hi>That in certain places of great Light here Sinned againss, there would break forth such horrible Sins, us would be the Amazement of the World.</hi>
+            </p>
+            <p>§ 19. He was a <hi>Man of Prayer,</hi> which was indeed, a ready way to become a <hi>Man of God.</hi> He would say, <hi>That Prayer was the principal part of a Ministers Work; 'twas by this, that he was to carry on the Rest.</hi> Accordingly, he still Devoted
+<pb n="28" facs="tcp:41694:39"/>
+               <hi>One Day</hi> in a <hi>Month,</hi> to Private <hi>Prayer</hi> with <hi>Fasting</hi> before the Lord, besides the <hi>Publick Fasts</hi> which often occurred unto him. He would say, <hi>That such Extraordinary Favours, as the Life of Religion, and the Power of Godliness, must be preserved by the frequent Use of such Extraordinary Means, as</hi> Prayer <hi>with</hi> Fasting; <hi>and that if Pro<g ref="char:EOLhyphen"/>fessors grow negligent of these Means, Iniquity will Abound, and the Love of many wax cold.</hi> Never<g ref="char:EOLhyphen"/>theless in the Duty of <hi>Prayer,</hi> he affected <hi>Strength,</hi> rather than <hi>Length;</hi> and though he had not so much variety in his <hi>Publick Praying,</hi> as in his <hi>Publick Preaching,</hi> yet he alwayes had a seasonable Respect unto Present Occasions. And it was Observed, that his <hi>Prayer</hi> was usually like <hi>Jacobs</hi> Ladder, wherein the nearer he came to an <hi>End,</hi> the nearer he drew towards <hi>Heaven;</hi> and he grew into such Rapturous <hi>Pleadings</hi> with God, and <hi>Praysings</hi> of God, as made some to say, <hi>That Like the Master of the Feast, he Reserved the best Wine until the Last.</hi> Nor was the wonderful <hi>Success</hi> of his <hi>Prayer</hi> upon special Concerns, unobserved by the whole Co<g ref="char:EOLhyphen"/>lony; who Reckoned him the <hi>Moses,</hi> which <hi>Turned away the Wrath of God from them,</hi> and obtained a <hi>Blast</hi> from Heaven upon their Indian <hi>Amalekites,</hi> by his <hi>Uplifted Hands,</hi> in those Re<g ref="char:EOLhyphen"/>markable Deliverances which they sometimes experienced. It was very particularly observed, when there was a Battel to be Fought between
+<pb n="29" facs="tcp:41694:39"/> the <hi>Narraganset,</hi> and the <hi>Monbegin</hi> Indians, in the year 1643. The <hi>Narraganset</hi> Indians had Complotted the Ruine of the English, but the <hi>Monbegin</hi> were Confederate with us; and a War now being between those two Nations, much notice was taken of the prevailing Impor<g ref="char:EOLhyphen"/>tunity, wherewith Mr. <hi>Hooker,</hi> urged for the Accomplishment of that Great Promise unto the People of God, <hi>I will Bless Bless them that Bless thee, but I will Curse him that Curses thee.</hi> And the Effect of it was, that the <hi>Narragansets</hi> Re<g ref="char:EOLhyphen"/>ceived a wonderful Overthrow from the <hi>Mon<g ref="char:EOLhyphen"/>begins,</hi> though the former did three or four to one, for Number, exceed the latter. Such an <hi>Israel at Prayer</hi> was our <hi>Hooker!</hi> And this Pray<g ref="char:EOLhyphen"/>ing <hi>Pastor</hi> was Blessed, as indeed such Ministers use to be, with a Praying <hi>People;</hi> there fell up<g ref="char:EOLhyphen"/>on His pious <hi>people,</hi> a <hi>Double Portion</hi> of the <hi>Spirit,</hi> which they beheld in him.</p>
+            <p>§. 20. That Reverend and Excellent Man, Mr. <hi>Whitfield,</hi> having spent many years in Stu<g ref="char:EOLhyphen"/>dying of <hi>Books,</hi> did at length take two or three years to Study <hi>Men;</hi> And in pursuance of this Design, having Acquainted himself with the most Considerable Divines in <hi>England,</hi> at last he fell into the Acquaintance of Mr. <hi>Hooker;</hi> concerning whom, he afterwards gave this Te<g ref="char:EOLhyphen"/>stimony; 'That he had not thought there had been such a man on Earth; a man in whom
+<pb n="30" facs="tcp:41694:40"/> there Shone so many Excellencies, as were in this <hi>Incomparable</hi> Hooker; <hi>A man in whom Lear<g ref="char:EOLhyphen"/>ning and Wisdom, were so Tempered with Zeal, Holiness and Watchfulness.</hi> And the same Ob<g ref="char:EOLhyphen"/>server, having exactly Noted Mr. <hi>Hooker,</hi> made this Remark, and gave this Report, more par<g ref="char:EOLhyphen"/>ticularly of him, <hi>That he had the best Command of his own Spirit, which he ever saw in any man whatever.</hi> For though he were a man of a Cholerick Disposition, and had a mighty Vi<g ref="char:EOLhyphen"/>gour and Fervour of Spirit, which as Occasion served, was wondrous useful unto him, yet he had ordinarily as much Government of his Choler, as a man has of a <hi>Mastiff Dog</hi> in a Chain; <hi>He could Let out his Dog, and put in his Dog, as he pleased.</hi> And another, that observed the Heroical Spirit and Courage, with which this Great man, Fulfilled his Ministry, gave this Account or him, <hi>He was a person, who whi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Doing his Masters Work, would put a King in his Pocket!</hi>
+            </p>
+            <p>§. 21. He was indeed of a very <hi>Condeseending Spirit,</hi> not only towards his <hi>Brethren</hi> in the Ministry, but also towards the <hi>Meanes<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> of any Christians whatsoever. He was very willing to Sacrifice his own Apprehensions into the Con<g ref="char:EOLhyphen"/>vincing <hi>Reason</hi> of another man; and very rea<g ref="char:EOLhyphen"/>dy to acknowledge any <hi>Mistake</hi> or <hi>Failing</hi> in himself. I'le give one Example; There hap<g ref="char:EOLhyphen"/>pened
+<pb n="31" facs="tcp:41694:40"/> a Damage to he done unto a Neighbour, immediately whereupon, Mr. <hi>Hooker</hi> meeting with an Unlucky Boy, that often had his Name up, for the doing of such Mischiets, he fell to Chiding of that <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oy, as the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oer of <hi>This.</hi> The Boy denied it, and Mr. <hi>Hooker</hi> still went on in an angry manner, charging of him; whereup<g ref="char:EOLhyphen"/>on said the Boy, <hi>Sir, I see you are in a passion, I'le say no more to you!</hi> and so ran away. Mr. <hi>Hook<g ref="char:EOLhyphen"/>er,</hi> upon further Enquiry, not finding that the Boy could be proved <hi>Guilty,</hi> sent for him; and having first by <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> calm Question, given the Boy opportunity to Renew his Lenial of the Fact, he said unto him, <hi>Since I cannot prove the contra<g ref="char:EOLhyphen"/>ry, I am bound to believe, and I do believe what you say;</hi> and then added, <hi>Indeed I was in a Passion, when I spake to you before; it was my Sin, and it is my Shame, and I am truly sorry for it: and I hope in God, I shall be more Watchful <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ereafter.</hi> So giving the Boy some good Coun<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>el, the poor Lad went away extrean<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly affected with such a Carriage in so Good a man; and it proved an Occasion of Good unto the Soul of the Lad all his Dayes.</p>
+            <p>§. 22. He had a singular Ability, at Giving Answers to <hi>Ca<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es of Conscience;</hi> whereof hap<g ref="char:EOLhyphen"/>py was the Experience of some Thousands: And for this Work he usually set apart the <hi>Second Day of the Week;</hi> wherein he admitted
+<pb n="32" facs="tcp:41694:41"/> all sorts of persons, in their Discourses with him, to Reap the Benesit of the Extraordinary Ex<g ref="char:EOLhyphen"/>perience, which himself had found of <hi>Satan's Devices.</hi> Once particularly; Mr. <hi>Hooker</hi> was Addressed by a Student in Divinity, who En<g ref="char:EOLhyphen"/>tring upon his Ministry was, as the most <hi>Useful Ministers,</hi> at their Entrance thereupon, use to be, horribly Buffered with <hi>Temptations,</hi> which were become almost <hi>Intollerable:</hi> Repairing to Mr. <hi>Hooker</hi> in the Distresses and Anguishes of his Mind, and Bemoaning his own overwhelming <hi>Fears,</hi> while the <hi>Lion</hi> was thus Roaring at him, Mr. <hi>Hooker</hi> answered, <hi>I can compare with any man Living for</hi> Fears! <hi>My Advice to you is, That you Search out and Analyse the humbling Causes of them, and Refer them to their proper places; then go and pour them out before the Lord; and they shall prove more profitable to you than any</hi> Books <hi>you can Read.</hi> But Mr. <hi>Hooker</hi> in his Dealing with Troubled Consciences, observed, that there were a sort of <hi>Crafty</hi> and <hi>Guileful</hi> Souls, which he would find out with an Admirable Dexteri<g ref="char:EOLhyphen"/>ty; and of these he would say, as <hi>Paul</hi> of the <hi>Cretians, They must be Reproved sharply, that they may be Sound in the Faith; Sharp Rebukes make Sound Christians.</hi> Indeed, <hi>of some be had Com<g ref="char:EOLhyphen"/>passion, making a Difference; and others he Saved with fear, pulling them out of the Fire.</hi>
+            </p>
+            <p>§. 23. Although he had a Notable Hand
+<pb n="33" facs="tcp:41694:41"/> at the Discussing and Adjusting of <hi>Controversal</hi> Points, yet he would hardly ever handle any <hi>Polemical Divinity</hi> in the Pulpit; but the very <hi>Spirit</hi> of his Ministry lay in the points of the most <hi>Practical Religion,</hi> and the <hi>Grand Concerns</hi> of a Sinner's <hi>Preparation</hi> for, <hi>Implantation</hi> in, and <hi>Salvation</hi> by, the Glorious Lord Jesus Christ. And in these Discourses he would frequently Intermix, most affectionate Warnings of the <hi>Declensions,</hi> which would quickly Befal the Churches and Christians of <hi>New-England.</hi>
+            </p>
+            <p>Many Volumns of the Sermons Preached by him were since Printed; and this Account is to be given of them.</p>
+            <p>While he was Fellow of <hi>Immanuel. Colledge,</hi> he entertained a special Inclination to those Principles of Divinity, which concerned, <hi>The Application of Redemption;</hi> and that which emi<g ref="char:EOLhyphen"/>nently fitted him for the Handling of those Principles, was, That he had been from his Youth Trained up, in the Experience of these <hi>Humiliations</hi> and <hi>Consolations,</hi> and Sacred <hi>Commu<g ref="char:EOLhyphen"/>niont,</hi> which belong to the New Creature; and he had most critically compared his own Expe<g ref="char:EOLhyphen"/>rience, with the Accounts, which the <hi>Quick and Powerful Word of God,</hi> gives of those Glorious Things. Accordingly, he Preached, first more briefly on these <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oints, whilst he was a <hi>Catechi<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> in <hi>Immanuel Colledge,</hi> in a more <hi>Schclastick</hi> way; which was most agreeable to his present Station;
+<pb n="34" facs="tcp:41694:42"/> and the Notes of what he then Delivered were so Esteemed, that many Copies thereof were Transcribed and P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aeserved. Afterwards, he Preached more largely on those Points, in a more <hi>popular way</hi> at <hi>Chelmsford,</hi> the Product of which were those Books of <hi>Praeparation for Christ, Contrition, Humiliation, Vocation, Union with Christ, and Communion,</hi> and the rest, which go under his Name; for many wrote after him in <hi>Short-Hand;</hi> and some were so bold, as to Publish many of them, without his Confent or Knowledge; whereby his Notions came to be Deformed<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y misrepresented in multitudes of Passages; among which I will suppose that Crude Passage, which Mr. <hi>Giles Firmin,</hi> in his <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <hi>Christian,</hi> so well confutes, <hi>That if the Soul be rightly Humbled, it is content to bear the State of Damnation.</hi> But when he came to <hi>New England,</hi> many of his Church, which had been his Old <hi>Essex</hi> Hearers, desired him once more to go over the Points of <hi>God's Regenerating Works upon the Souls of His Elect;</hi> until, at last their Desires prevailed with him to Resume that pleasant Subject. The Subject hereby came to have a <hi>Third Concotion,</hi> in the Head and Heart of One, as able to Digest it, as most men Living in the World; and it was his Design to perfect with his own Hand his Composures for the Press, and thereby Vin<g ref="char:EOLhyphen"/>dicate both <hi>Author</hi> and <hi>Matter,</hi> from the
+<pb n="35" facs="tcp:41694:42"/> wrongs done to <hi>both,</hi> by Surreptitious <hi>Editions</hi> heretofore. He did not Live to finish what he intended; yet a Worthy Minister, name<g ref="char:EOLhyphen"/>ly, Mr. <hi>John Higginson,</hi> One richly able himself to have been an <hi>Author</hi> of a not unlike <hi>Matter,</hi> Transcribed from his <hi>Manuscripts,</hi> near two Hundred of these Excellent Sermons, which were sent over into <hi>England,</hi> that they might be Published; but, by what means I know not, scarce half of them have seen the Light unto this Day. However, 'tis possible, the valuableness of those that are Published, may at some time or other awaken some Enqui<g ref="char:EOLhyphen"/>ries after the <hi>Unknown Hands</hi> wherein the rest▪ are as yet concealed.</p>
+            <p>§. 24. But this was not all the Service, which the Pen of Mr. <hi>Hooker,</hi> did for the Church of God! It was his Opinion, That there were <hi>Two great Reserves of Enquiry,</hi> for this Age of the World; the First, Where<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the <hi>Spiritual Rule</hi> of our <hi>Lord's Kingdom</hi> do<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Consist, and after what manner it is, <hi>Internal<g ref="char:EOLhyphen"/>ly</hi> Revealed, Managed, and Maintained in the Souls of his People? The Second, After what Order the <hi>Government</hi> of our, Lord's Kingdom is to be <hi>Externally</hi> Managed and Maintained in his Churches? Accordingly, having done his part for Delivering the <hi>Former Subject</hi> from <hi>Pharisaical Formality,</hi> on
+<pb n="36" facs="tcp:41694:43"/> the one Hand, and from <hi>Familistical Enthu<g ref="char:EOLhyphen"/>fiasm</hi> on the other; he was by the sollici<g ref="char:EOLhyphen"/>tous Importunity of his Friends prevailed withal to Compose a Treatise on the <hi>Other Subject</hi> also. Upon this Occasion, he Wrote his Excellent Book, which is Entituled, <hi>A Survey of Church Discipline;</hi> wherein, having in the Name of the other Ministers in the Country, as well as his own, professed his Concur<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ence with Holy, and Learned, Mr. <hi>Rutherford,</hi> as to the <hi>Number</hi> and <hi>Nature</hi> of <hi>Church Officers;</hi> The Right of <hi>People</hi> to call their own <hi>Off<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cers;</hi> The Unfitness of <hi>Scandalous Persons</hi> to be Members of a <hi>Visible Church;</hi> The Unwarrantableness of <hi>Separation</hi> from Churches for certain Defective Circumstances; The Lawfulness, yea, Needfulness, of a <hi>Con<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>sociation</hi> among Churches; and Calling in the Help of such <hi>Consociations,</hi> upon Emerging Difficulties; and the Power of such <hi>Consocia<g ref="char:EOLhyphen"/>tions</hi> to proceed against a <hi>Particular Church,</hi> pertinaciously offending, with a Sentence of <hi>Non-Communion:</hi> He then proceeds to consi<g ref="char:EOLhyphen"/>der, a <hi>Church-Congregational compleatly constitu<g ref="char:EOLunhyphen"/>ted with all its Officers, as having full power in its self to Exercise all Church-Discipline, in all the Censures thereof;</hi> and the Interest, which the <hi>Consent of the People</hi> is to have in the Exercise of this <hi>Discipline.</hi> The first fair and full Copy of this Book, was Drowned in its
+<pb n="37" facs="tcp:41694:43"/> Passage to <hi>England,</hi> with many Serious and Eminent Christians, which were then Buried by Shipwrack in the <hi>Ocean:</hi> for which cause there was another Copy lent afterwards, which through the Pre mature Death of the <hi>Author,</hi> was not so perfect as the former; but it was a Reflection, which Dr. <hi>Goodwin</hi> made upon it, <hi>The Destiny which hath attended this Book, hath visited my Thoughts with an Apprehension of something like</hi> Omen <hi>to the Cause it self: That after the Overwhelming of it with a Flood of Obloquies, and Disadvantages and Misrepresen<g ref="char:EOLhyphen"/>tations, and injurious Oppressions cast out after it, it might in the time, which God alone hath put in His own Power, be again Emergent.</hi> He adds, <hi>I have Looked for this; That this Truth, and all that should be said of it, was Ordained, as Christ of whom every Truth is a Ray, to be us a Seed-corn, which unless it fall to the Ground and Dy, and this perhaps together with some of the Persons that profess it, it brings not forth much Fruit.</hi> However, the Ingenious Mr. <hi>Stone,</hi> who was Collegue to Mr. <hi>Hooker,</hi> ac<g ref="char:EOLhyphen"/>compained this <hi>Book,</hi> with a little Epigram, whereof these were the concluding Disticks.</p>
+            <lg>
+               <l>
+                  <hi>If any to this</hi> Platform <hi>can Reply</hi>
+               </l>
+               <l>
+                  <hi>With better Reason, Let this Volumn Dy;</hi>
+               </l>
+               <l>
+                  <hi>But better Arguments, if none can give,</hi>
+               </l>
+               <l>
+                  <hi>Then</hi> Thomas Hookers <hi>Policy shall Live.</hi>
+               </l>
+            </lg>
+            <pb n="38" facs="tcp:41694:44"/>
+            <p>§ 25. In his Administration of <hi>Church-Dis<g ref="char:EOLhyphen"/>cioline</hi> there were several Things, as <hi>I mitable,</hi> as <hi>Observable.</hi> As he was an hearty Friend unto the <hi>Consociation of Churches;</hi> and hence all the time, that he Lived, the <hi>Pastors</hi> of the Nighbouring Churches, held their frequent Meetings for mutual Consultation in things of common Concernment; so, in his own <hi>particular Church,</hi> he was very careful, to have every thing done with a Christian <hi>Mo<g ref="char:EOLhyphen"/>deration,</hi> and <hi>Unanimity.</hi> Wherefore he would have nothing publickly propounded unto the <hi>Brethren</hi> of the Church, but what had been first privately prepared by the <hi>Elders;</hi> and if he feared the happening of any <hi>Debate,</hi> his way aforehand w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, to visit some of the more Noted and Leading <hi>Brethren,</hi> and hav<g ref="char:EOLhyphen"/>ing Engaged <hi>Them</hi> to second what he should move unto the Church, he rarely missed of a full Concurrence: to which purpose he would say, <hi>The Elders must have a Church in a Church, if they would preserve the Peace of the Church.</hi> But if any di<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ficult or divided Agitation was Raised in the Church, about any matter offered, he would ever put a stop to that publick Agitation, by Delaying the <hi>Vore,</hi> until another Meeting; before which time, he would ordinarily by private Confe<g ref="char:EOLhyphen"/>rences, gain over such as were unsatisfied. As
+<pb n="39" facs="tcp:41694:44"/> for the <hi>Admission</hi> of Communicants unto the <hi>Lord's Table,</hi> he kept the <hi>Examination</hi> of them unto the <hi>Elders</hi> of the Church, as properly belonging unto their <hi>Work</hi> and <hi>Charge;</hi> and with his Elders he would order them to make before the whole Church a Profession of a <hi>Repenting Faith,</hi> as they were able, or willing to do it. Some, that could unto E<g ref="char:EOLhyphen"/>dification do it, he put upon thus Relating the manner of their <hi>Conversion</hi> to God; but usually they only answered unto certain pro<g ref="char:EOLhyphen"/>batory <hi>Questions,</hi> which were tendered them; and so after their <hi>Names</hi> had been for a few weeks before signified unto the Congre<g ref="char:EOLhyphen"/>gation, to Learn whether any <hi>Objection</hi> or <hi>Exception</hi> could be made against them, of a<g ref="char:EOLhyphen"/>ny thing <hi>Scandalous</hi> in their <hi>Conversations,</hi> now Consenting unto, <hi>The Covenant,</hi> they were Admitted into the <hi>Church Communion.</hi> As for <hi>Ecclesiastical Censures,</hi> he was very watchful to prevent all Proceedures unto <hi>Them,</hi> as far as was consistent with the Rules of our Lord; for which cause (except in grosser Abomi<g ref="char:EOLhyphen"/>nations) when <hi>Offences</hi> happened, he did his utmost, that the Notice thereof might be extended no further, than it was when they first were laid before him; and having Re<g ref="char:EOLhyphen"/>conciled the Offenders with sensible and con<g ref="char:EOLhyphen"/>venient <hi>Acknowledgments</hi> of their Miscarriages, he would let the Notice thereof be confined
+<pb n="40" facs="tcp:41694:45"/> unto such as were aforehand therewith ac<g ref="char:EOLhyphen"/>quainted; and hence there was but one per<g ref="char:EOLhyphen"/>son <hi>Admonished</hi> in, and but one person <hi>Ex<g ref="char:EOLhyphen"/>communicated</hi> from, the Church of <hi>Hartford,</hi> in all the fourteen years, that Mr. <hi>Hooker</hi> Lived there He was much troubled at the too frequent <hi>Censures</hi> in some other Church<g ref="char:EOLhyphen"/>es; and he would say, <q rend="margQuotes">
+                  <hi>Church Censures</hi> are things, wherewith neither we, nor our Fa<g ref="char:EOLhyphen"/>thers have been acquainted, in the practice of them; and therefore the utmost Circum<g ref="char:EOLhyphen"/>spection is needful, that we do not spoil the Ordinances of God, by our management thereof.</q> In this point he was like <hi>Beza,</hi> who defended the Ordinance of <hi>Excommunication</hi> against <hi>Erastus;</hi> and yet, he with his Collegues, were so c<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>utelous in the use of it, that in eleven years, there was but one <hi>Excommuni<g ref="char:EOLhyphen"/>cation</hi> passed in all <hi>Geneva.</hi>
+            </p>
+            <p>§ 26. He would say, <hi>That he should Esteem it a Favour from God, if he might Live no Longer, than he should be able to hold up Lively in the Work of his Place; and that, when the Time of his Departure should come, God would shorten the Time:</hi> and he had his Desire. Some of his most Observant Hearers, obser<g ref="char:EOLhyphen"/>ved an astonishing sort of a <hi>Cloud,</hi> in his Congregation, the last <hi>Lords Day</hi> of his pub<g ref="char:EOLhyphen"/>lick Ministry, when he also Administred
+<pb n="41" facs="tcp:41694:45"/> the Lord's Supper among them; and a most unaccountable <hi>Heaviness</hi> and <hi>Sleepiness,</hi> even in the most <hi>Watchful Christians</hi> of the place, not unlike the Drowsiness of the <hi>Disciples,</hi> when our Lord was going to Dy; for which, One of the Elders publickly Rebuked them. When those Devout People afterwards per<g ref="char:EOLhyphen"/>ceived, that this was the <hi>Last Sermon</hi> and <hi>Sacrament,</hi> wherein they were to have the Presence of their <hi>Pastor</hi> with them, 'tis In<g ref="char:EOLhyphen"/>expressible, how much they bewailed their <hi>Unattentiveness</hi> unto his <hi>Farewel Dispensations;</hi> and some of them could Enjoy no peace in their own Souls, until they had obtained Leave of the Elders, to confess before the whole Congregation with many Tears, that <hi>Inadvertency.</hi> But as for Mr. <hi>Hooker</hi> himself; an <hi>Epidemical Sickness,</hi> which had proved mortal to <hi>many,</hi> though at first small or no Danger appeared in it, Arrested <hi>him.</hi> In the time of his Sickness, he did not say much to the Standers by; but being asked, that he would utter his Apprehensions about some Important Things, especially about the State of <hi>New England,</hi> he answered, <hi>I have not that Work now to do; I have already De<g ref="char:EOLhyphen"/>clared the Counsel of the Lord:</hi> and when one that stood weeping by the Bed side said unto him, Sir, <hi>You are going to Receive the Reward of all your Labours,</hi> he Replyed, <hi>Bro<g ref="char:EOLhyphen"/>ther,
+<pb n="42" facs="tcp:41694:46"/> I am going to R<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ceive Mercy!</hi> At Last, he Closed his <hi>own Eyes,</hi> with his <hi>own Hands,</hi> and gently stroaking his own Forehead, with a <hi>Smile</hi> in his Co<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ntenance, he gave a little Groan, and so Expired his Blessed Soul into the Arms of his <hi>Fellow Servants,</hi> the <hi>Holy Angels,</hi> on <hi>July</hi> 7. 1647. In which Last Hours, the Glo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ious <hi>Peace</hi> of Soul, which he had Enjoyed without any Inter<g ref="char:EOLhyphen"/>ruption for near Thirty Years together, so gloriously accompanied him, that a worthy Spectator then Writing to Mr. <hi>Cotton</hi> a Relatio<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thereof, made this Reflection, <hi>Truly Syr, the sight of his Death, will make me have more pleasant Thoughts of Death, than ever I yet had in my Life!</hi>
+            </p>
+            <p>§ 27. Thus Lived, and thus Dyed, One of the <hi>First Three. He,</hi> of whom the Great Mr. <hi>Cotton</hi> gave this Character, that he did, <hi>Agmen ducere et dominari in Concionibus, gratia Spiritus Sancti et virtute plenis;</hi> and that he was, <hi>Vir Solertis et Acerrimi Judicij;</hi> and at Le<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gth uttered his Lamentations in a Funeral <hi>Elegy,</hi> whereof some Lines were these.</p>
+            <lg>
+               <l>
+                  <hi>'Twas of</hi> Geneva's <hi>Worthies said with Wonder,</hi>
+               </l>
+               <l>(<hi>Those</hi> Worthies Three) Farel <hi>was w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nt to Thunder,</hi>
+               </l>
+               <l>Viret <hi>like Rain on tender Grass to show'r,</hi>
+               </l>
+               <l>
+                  <hi>But</hi> Calvin, <hi>Lively Oracles to pour.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb n="43" facs="tcp:41694:46"/>
+               <l>
+                  <hi>All These in</hi> Hooker's <hi>Spirit did Remain,</hi>
+               </l>
+               <l>
+                  <hi>A Son of</hi> Thounder, <hi>and a Show'r of</hi> Rain;</l>
+               <l>
+                  <hi>A</hi> Pourer forth <hi>of Lively Oracles,</hi>
+               </l>
+               <l>
+                  <hi>In Saving Souls,</hi> The Summ of Miracles.</l>
+            </lg>
+            <p>This was <hi>He,</hi> of whom his Pupil Mr. <hi>Ash,</hi> gives this Testimony; <hi>For his great Abilities, and glorious Services, both in This, and in the Other</hi> England, <hi>he Deserves a Place in the first Rank of them, whose Lives are of Late Record<g ref="char:EOLhyphen"/>ed.</hi> And this was <hi>He,</hi> of whom his Reve<g ref="char:EOLhyphen"/>rend Contemporary, Mr. <hi>Ezekiel Rogers,</hi> ten<g ref="char:EOLhyphen"/>dered this for an <hi>Epitaph;</hi> in every Line whereof, methinks the Writer deserves a Re<g ref="char:EOLhyphen"/>ward equal to what <hi>Virgil</hi> had, when for every Line, referring to <hi>Marcellus</hi> in the end of his Sixth <hi>Aeneid,</hi> he received a Sum, not much less than <hi>Eighty Pounds</hi> in Money, or as ample a Requital as Cardinal <hi>Richleu</hi> gave to a Poer, when he bestow'd upon him two thousand <hi>Sequins</hi> for a witty Conceit in <hi>One Verse,</hi> of but seven words, upon his Coat of Arms.</p>
+            <lg>
+               <l>America, <hi>al<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hough She do not Boast,</hi>
+               </l>
+               <l>
+                  <hi>Of all the</hi> Gold <hi>and</hi> Silver <hi>from that Coast,</hi>
+               </l>
+               <l>Lent <hi>to her Sister</hi> Europe's <hi>Need or Prid<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>;</hi>
+               </l>
+               <l>(<hi>For that's Repaid her, with much Gain beside,</hi>
+               </l>
+               <l>
+                  <hi>In one</hi> Rich Pearl, <hi>which Heaven did thence afford,</hi>
+               </l>
+               <l>
+                  <hi>As Pious</hi> Herbert <hi>gave his honest word;</hi>)</l>
+               <pb n="3" facs="tcp:41694:2"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:41694:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:41694:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="6" facs="tcp:41694:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:41694:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:41694:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:41694:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:41694:6"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:41694:6"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:41694:7"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="13" facs="tcp:41694:7"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="14" facs="tcp:41694:8"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="15" facs="tcp:41694:8"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="16" facs="tcp:41694:9"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="17" facs="tcp:41694:9"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:41694:10"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="19" facs="tcp:41694:10"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="20" facs="tcp:41694:11"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="21" facs="tcp:41694:11"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="22" facs="tcp:41694:12"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="23" facs="tcp:41694:12"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="24" facs="tcp:41694:13"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="25" facs="tcp:41694:13"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="26" facs="tcp:41694:14"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="27" facs="tcp:41694:14"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="28" facs="tcp:41694:15"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="29" facs="tcp:41694:15"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="30" facs="tcp:41694:16"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="31" facs="tcp:41694:16"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="32" facs="tcp:41694:17"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="33" facs="tcp:41694:17"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="34" facs="tcp:41694:18"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:41694:18"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="36" facs="tcp:41694:19"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="37" facs="tcp:41694:19"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="38" facs="tcp:41694:20"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="39" facs="tcp:41694:20"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:41694:21"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="41" facs="tcp:41694:21"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="42" facs="tcp:41694:22"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="43" facs="tcp:41694:22"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="44" facs="tcp:41694:23"/>
+               <l>
+                  <hi>Y<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> thinks, She in the Catalogue may come</hi>
+               </l>
+               <l>
+                  <hi>With</hi> E<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ope, Affrick, Asia, <hi>for One Tomb.</hi>
+               </l>
+            </lg>
+            <p>But as <hi>A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>brose</hi> could say concerning <hi>The<g ref="char:EOLhyphen"/>od<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s, Non Totus rece<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sit; reliquit nobis Liberos, in quibas eum debe n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s agnoscere, et in quib<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>um Cernimus et Tenemus;</hi> thus we have to this Day among us, our Dead <hi>Hooker</hi> yet Living in his Worthy Son, Mr. <hi>Samuel Hooker,</hi> an Able, Faithful, Useful, Minister, at <hi>F<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<g ref="char:EOLhyphen"/>mington,</hi> in the Colony of <hi>Connecticut.</hi>
+            </p>
+            <div type="epitaph">
+               <head>EPITAPHIUM.</head>
+               <q>
+                  <p>THOMAS HOOKER.</p>
+                  <p>
+                     <hi>Heu! Pictas; Heu! prisca Fides.</hi>
+                  </p>
+               </q>
+               <p>Or, for a more extended EPITAPH, we may take the Abridgment of his <hi>Life,</hi> as offered in some Lines of Mr. ELIJAH COR LET, that memorable old <hi>School master</hi> in <hi>Cambridge,</hi> from whose Education our Colledge and Countrey, has Received so many of its <hi>Worthy men,</hi> that he is himself <hi>Worthy</hi> to have <hi>his Name</hi> Celebrated in no <hi>Less</hi> a Paragraph of our <hi>Church History,</hi> than <hi>That</hi> wherein I may Introduce <hi>him</hi> Endea<g ref="char:EOLhyphen"/>vouring to Celebrate the Name of our <hi>Great</hi> HOOKER; unto this purpose.</p>
+               <lg>
+                  <l>
+                     <hi>Si mea cum Vestris, valuissent vota,</hi> Nov-Angli,</l>
+                  <l>HOOKERUS <hi>Tardo viserat Astra Gradu.</hi>
+                  </l>
+                  <l>Te, <hi>Reverende Senex, Sic</hi> Te <hi>dileximus omnes,</hi>
+                  </l>
+                  <l>
+                     <hi>Ipsa Invisa forent ut tibi Jura</hi> poli.</l>
+                  <pb n="45" facs="tcp:41694:23"/>
+                  <l>
+                     <hi>Morte</hi> Tua <hi>Infandum Cogor Renovare dolorem,</hi>
+                  </l>
+                  <l>
+                     <hi>Quippe</hi> Tua <hi>videat Terra</hi> Nov-Angla <hi>suam.</hi>
+                  </l>
+                  <l>
+                     <hi>Dignus eras,</hi> Aquilae <hi>similis, Renovasse Juventam,</hi>
+                  </l>
+                  <l>
+                     <hi>Et Fato in Terris Candidiore frui.</hi>
+                  </l>
+                  <l>
+                     <hi>Domus</hi> Emanuel, <hi>Soror Augustissima, Mater</hi>
+                  </l>
+                  <l>
+                     <hi>Misse Prophetarum, Tu mihi Testis eris.</hi>
+                  </l>
+                  <l>
+                     <hi>Te Testem appello, quondam</hi> Chelmsfordia, <hi>Caelis</hi>
+                  </l>
+                  <l>
+                     <hi>Proxima; Te praeco Sustulit ille Tuus.</hi>
+                  </l>
+                  <l>
+                     <hi>Non tulit haec</hi> Chalcas, <hi>Arcis Phaebique Sacerdos,</hi>
+                  </l>
+                  <l>
+                     <hi>Nam populo Sperni sic sua sacra videt.</hi>
+                  </l>
+                  <l>
+                     <hi>Vidit et ex Rostris Genti praedicere vatem</hi>
+                  </l>
+                  <l>Bella, <hi>quod in Christum Tota</hi> Rebellis <hi>erat.</hi>
+                  </l>
+                  <l>
+                     <hi>Quem Patria exegit, ferus Hostis</hi> Episcopus; <hi>Hostis</hi>
+                  </l>
+                  <l>
+                     <hi>Hunc minus, in</hi>
+                     <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>atavis, <hi>vexat amara</hi> Febris.</l>
+                  <l>
+                     <gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <hi>varios casus, Quassata</hi> Nov Anglia, <hi>tandem</hi>
+                  </l>
+                  <l>
+                     <hi>Ramifer' inde Tibi Diva</hi> Columba <hi>venit.</hi>
+                  </l>
+                  <l>
+                     <hi>Ille Tuos</hi> Caetus <hi>Ornat, pascitque</hi> Fideles,</l>
+                  <l>
+                     <hi>Laudibus Innumeris addit et ille Tuis.</hi>
+                  </l>
+                  <l>
+                     <hi>Dulcis</hi> Amicus <hi>erat,</hi> Pastorque <hi>Insignis, et Altus</hi>
+                  </l>
+                  <l>
+                     <hi>Dotibus, Eloquio, Moribus, Ingenio.</hi>
+                  </l>
+                  <l>
+                     <hi>Proh Pudor! Ereptum Te vivi vidimus, et Non</hi>
+                  </l>
+                  <l>
+                     <hi>Excessurae Animae Struximus Insidias!</hi>
+                  </l>
+                  <l>
+                     <hi>Insidias precibus, Lacrymisque perennibus, inde</hi>
+                  </l>
+                  <l>
+                     <hi>Semita Caelestis sic tibi clausa foret.</hi>
+                  </l>
+                  <l>
+                     <hi>Sed Frustra haec meditor!</hi>
+                  </l>
+                  <l>
+                     <hi>Lustra per</hi> HOOKERUS <hi>ter quinque</hi> Viator, <hi>erat: jam</hi>
+                  </l>
+                  <l>
+                     <hi>Cae<gap reason="illegible" resp="#murp" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>stem patriam</hi> Possidet <hi>ille fuam.</hi>
+                  </l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="by_the_same_author">
+            <pb facs="tcp:41694:24"/>
+            <head>A Catalogue of some other Books.</head>
+            <list>
+               <item>1. THe Call of the Gospel.</item>
+               <item>2. Military Duties: An Artillery Serme.</item>
+               <item>3. Right Thoughts in Sad Hours.</item>
+               <item>4. Early Piety Exemplified.</item>
+               <item>5. Memorable Witchcrafts and Possession.</item>
+               <item>6. Discourses, to Serve the Designs of Pra<g ref="char:EOLhyphen"/>ctical Godliness.</item>
+               <item>7. Souldiers Counselled and Comforted.</item>
+               <item>8. The Wonderful Works of God Comm<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>morated.</item>
+               <item>9. Work upon the A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k.</item>
+               <item>10. Speedy Repentance Urged.</item>
+               <item>11. A Publick Spi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>it.</item>
+               <item>12. A Companion for Communicants.</item>
+               <item>13. The Serviceable Man: An Election Se<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mon.</item>
+               <item>14. Se<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ious Thoughts in Dying Times.</item>
+               <item>15. Addresses to Old men, Young men, Little Children.</item>
+               <item>16. The Life of the Renowned <hi>John Eli<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t.</hi>
+               </item>
+               <item>17. <hi>Expectanda:</hi> Or Things to be Looked for.</item>
+               <item>18. Little Flocks Guarded against G<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iev<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Wolves.</item>
+               <item>18. Ornaments for the Daughters of Zion.</item>
+               <pb facs="tcp:41694:24"/>
+               <pb facs="tcp:41694:25"/>
+               <pb facs="tcp:41694:25"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="44" facs="tcp:41694:47"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:41694:47"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:41694:48"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:41694:48"/>
+               <item>
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Spirit.</item>
+               <item>23. Meditations on the Day of Judg<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>24. A Midnight Cry.</item>
+               <item>25. <hi>Optanda:</hi> Good Men Described Good Things Propounded.</item>
+               <item>26. The Wonders of the Invisible World</item>
+               <item>27. Awakenings for the Unregenerate.</item>
+               <item>28. Warnings from the Dead.</item>
+               <item>29. The Day, and the Work of the Day.</item>
+               <item>30. Winter Meditations.</item>
+               <item>31. Early Religion Urged.</item>
+               <item>32. The Short History of <hi>New-England.</hi>
+               </item>
+               <item>33. Durable Riches.</item>
+               <item>34. Help for Distressed Parents.</item>
+            </list>
+            <p>All by this AUTHOR.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
